@@ -1,5 +1,6 @@
 # Hascal Compiler written in Hascal
 A Powerful and fast Hascal compiler written in Hascal.
+
 Made to replace the original compiler
 
 ## Build

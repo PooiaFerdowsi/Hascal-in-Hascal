@@ -27,6 +27,7 @@ hascal hascal.py new_hascal
   - [ ] struct statement
   - [ ] enum statement
   - [ ] import statment
+- [ ] Semantic Analyzer
 - [ ] Code Generator(hascal to d)
   - [ ] variable declare
   - [ ] array declare
